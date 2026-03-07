@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "963301531292",
+    "firebase_url": "https://carenexus-57c87-default-rtdb.firebaseio.com",
+    "project_id": "carenexus-57c87",
+    "storage_bucket": "carenexus-57c87.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963301531292:android:0f0e3a80548319fc8c9759",
+        "android_client_info": {
+          "package_name": "com.carenexus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963301531292-o2aggrs8v4f5tc75asjkdvhkvrf3totj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXMNs0W_BLs7RxusIoMw1txpORs3o-8TU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963301531292-o2aggrs8v4f5tc75asjkdvhkvrf3totj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "963301531292-607esfkeisjj362u7lt9d5pr0nm10hpe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.careNexus"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963301531292:android:c2852dad7bc2ce298c9759",
+        "android_client_info": {
+          "package_name": "com.example.care_nexus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963301531292-dhcpnqiv534ui9csr6inea7e15admjcg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.care_nexus",
+            "certificate_hash": "02a2b16cd277073079204238fc2a3c75c89301c5"
+          }
+        },
+        {
+          "client_id": "963301531292-o2aggrs8v4f5tc75asjkdvhkvrf3totj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXMNs0W_BLs7RxusIoMw1txpORs3o-8TU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963301531292-o2aggrs8v4f5tc75asjkdvhkvrf3totj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "963301531292-607esfkeisjj362u7lt9d5pr0nm10hpe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.careNexus"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
